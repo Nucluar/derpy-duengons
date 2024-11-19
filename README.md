@@ -1,2 +1,2 @@
 # derpy-duengons
-Derpy Doengon
+Derpy Duengon
