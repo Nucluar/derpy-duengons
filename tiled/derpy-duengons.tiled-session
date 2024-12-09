@@ -1,0 +1,112 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/lukeg/OneDrive/Documents/level01.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "#floor": {
+            "scaleInDock": 1
+        },
+        "#lower wall": {
+            "scaleInDock": 1
+        },
+        "#upper wall": {
+            "scaleInDock": 1
+        },
+        "C:/Users/lukeg/OneDrive/Documents/level01.tmx": {
+            "scale": 1.9791666666666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -3228.8842105263157,
+                "y": -471.66315789473686
+            }
+        },
+        "C:/Users/lukeg/OneDrive/Documents/level01.tmx#floor": {
+            "scaleInDock": 1
+        },
+        "C:/Users/lukeg/OneDrive/Documents/level01.tmx#lower wall": {
+            "scaleInDock": 1
+        },
+        "C:/Users/lukeg/OneDrive/Documents/level01.tmx#upper wall": {
+            "scaleInDock": 1
+        },
+        "C:/Users/lukeg/OneDrive/Documents/level02.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 218.99999999999997,
+                "y": 255.66666666666666
+            }
+        },
+        "C:/Users/lukeg/OneDrive/Documents/level02.tmx#floor": {
+            "scaleInDock": 1
+        },
+        "C:/Users/lukeg/OneDrive/Documents/level02.tmx#lower wall": {
+            "scaleInDock": 1
+        },
+        "C:/Users/lukeg/OneDrive/Documents/level02.tmx#upper wall": {
+            "scaleInDock": 1
+        },
+        "C:/Users/lukeg/OneDrive/Documents/levels.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 218.99999999999997,
+                "y": 255.66666666666666
+            }
+        },
+        "C:/Users/lukeg/OneDrive/Documents/levels.tmx#floor": {
+            "scaleInDock": 1
+        },
+        "C:/Users/lukeg/OneDrive/Documents/levels.tmx#lower wall": {
+            "scaleInDock": 1
+        },
+        "C:/Users/lukeg/OneDrive/Documents/levels.tmx#upper wall": {
+            "scaleInDock": 1
+        },
+        "C:/Users/lukeg/OneDrive/Documents/untitled.tmx": {
+            "scale": 1.9791666666666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 239.74736842105264,
+                "y": 239.7473684210526
+            }
+        },
+        "C:/Users/lukeg/OneDrive/Documents/untitled.tmx#floor": {
+            "scaleInDock": 1
+        },
+        "C:/Users/lukeg/OneDrive/Documents/untitled.tmx#floors": {
+            "scaleInDock": 1
+        },
+        "C:/Users/lukeg/OneDrive/Documents/untitled.tmx#lower wall": {
+            "scaleInDock": 1
+        },
+        "C:/Users/lukeg/OneDrive/Documents/untitled.tmx#upper wall": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/lukeg/.vscode/derpy-duengons/public/tilemaps",
+    "last.imagePath": "C:/Users/lukeg/.vscode/derpy-duengons/public/tilemaps",
+    "map.height": 30,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "C:/Users/lukeg/OneDrive/Documents/level01.tmx"
+    ],
+    "project": "derpy-duengons.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "C:/Users/lukeg/OneDrive/Documents/level01.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
